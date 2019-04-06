@@ -1,0 +1,7 @@
+Makefile
+README.parser
+infile.txt
+parse.c
+parse.h
+shell
+shell.c
